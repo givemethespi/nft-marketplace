@@ -17,6 +17,7 @@ const About: NextPage = () => {
                             href='https://maespirit.fr'
                             target='_blank'
                             className='text-blue-700'
+                            rel='noreferrer'
                         >
                             Maespirit
                         </a>{' '}
@@ -26,6 +27,7 @@ const About: NextPage = () => {
                             href='https://github.com/givemethespi/nft-marketplace'
                             target='_blank'
                             className='text-blue-700'
+                            rel='noreferrer'
                         >
                             Github
                         </a>
@@ -93,6 +95,7 @@ const About: NextPage = () => {
                                 href='https://github.com/givemethespi/nft-marketplace'
                                 target='_blank'
                                 className='text-blue-700'
+                                rel='noreferrer'
                             >
                                 Github
                             </a>
