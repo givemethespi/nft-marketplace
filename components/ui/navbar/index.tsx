@@ -10,7 +10,8 @@ import Link from 'next/link';
 
 const navigation = [
     { name: 'Marketplace', href: '/', current: true },
-    { name: 'Create', href: '/nft/create', current: false }
+    { name: 'Create', href: '/nft/create', current: false },
+    { name: 'About', href: '/about', current: false }
 ];
 
 function classNames(...classes: string[]) {
