@@ -1,11 +1,11 @@
-### Lancer le projet
+### Launch dev project
 ```
-- Lancer ganache
+- Launch ganache
 
 > yarn dev
 ```
 
-### Les tests
+### Testing NFT contract
 ```
 > cd test
 > truffle test .\NFTMarket.test.js
