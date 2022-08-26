@@ -29,7 +29,10 @@ const About: NextPage = () => {
                         >
                             Github
                         </a>
-                        .
+                        .<br />
+                        It is a marketplace where you can upload an image and
+                        mint an NFT from. You also can buy any any listed item,
+                        to keep it or to sell later.
                     </p>
                     <p className='text-gray-500'>
                         #typescript #react #nextjs #solidity #ipfs #ethersjs
@@ -46,6 +49,7 @@ const About: NextPage = () => {
                             Infura
                         </li>
                         <li>Next.js API</li>
+                        <li>Contract testing with Truffle</li>
                     </ul>
                 </div>
                 <div className='mt-4'>
