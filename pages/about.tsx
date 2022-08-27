@@ -32,9 +32,9 @@ const About: NextPage = () => {
                             Github
                         </a>
                         .<br />
-                        It is a marketplace where you can upload an image and
-                        mint an NFT from. You also can buy any any listed item,
-                        to keep it or to sell later.
+                        This is a marketplace where you can upload an image and
+                        mint an NFT from it. You can also buy, collect and sell
+                        the tokens.
                     </p>
                     <p className='text-gray-500'>
                         #typescript #react #nextjs #solidity #ipfs #ethersjs
